@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CivicReports - Your City, Your Voice</title>
+    <meta name="description" content="Modern civic issue reporting platform connecting citizens with local authorities. Report, track, and resolve community issues efficiently." />
+    <meta name="author" content="CivicReports Platform" />
+    <meta name="keywords" content="civic issues, municipal reporting, community service, local government, issue tracking" />
+    <link rel="canonical" href="/" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="/language-popup.css" />
+
+    <meta property="og:title" content="CivicReports - Your City, Your Voice" />
+    <meta property="og:description" content="Modern civic issue reporting platform connecting citizens with local authorities. Report, track, and resolve community issues efficiently." />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@civicreports" />
+    <meta name="twitter:title" content="CivicReports - Your City, Your Voice" />
+    <meta name="twitter:description" content="Report, Track, Resolve. Efficient platform for civic issue reporting." />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    
+    <!-- Language Selection Popup -->
+    <div id="language-popup" class="language-popup">
+      <div class="language-popup-header">
+        <div class="language-icon">🌐</div>
+        <div class="language-text">
+          <div class="language-title">Choose Language</div>
+          <div class="language-subtitle">भाषा चुनें</div>
+        </div>
+        <button id="close-popup" class="close-btn">×</button>
+      </div>
+      <div id="google_translate_element"></div>
+    </div>
+    
+    <script type="module" src="/src/main.tsx"></script>
+    <script src="/language-popup.js"></script>
+    <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  </body>
+</html>
