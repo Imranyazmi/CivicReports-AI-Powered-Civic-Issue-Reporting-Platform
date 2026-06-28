@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="public/logo1.png" alt="CivicReports Logo" width="60"/><br/>
+  <img src="public/logo.ico" alt="CivicReports Logo" width="60"/><br/>
   CivicReports — Your City, Your Voice 🏙️
 </h1>
 
