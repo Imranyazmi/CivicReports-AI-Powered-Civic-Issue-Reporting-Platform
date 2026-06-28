@@ -112,11 +112,11 @@ Citizen                         Authority
 | | |
 |---|---|
 | ![Home](project%20ss/1.png) | ![Login](project%20ss/2.png) |
-| **1. Home / Landing Page** | **2. Login** |
+| **1. Home / Landing Page** | **2. Report an Issue** |
 | ![Report Issue](project%20ss/3.png) | ![Issue Tracker](project%20ss/4.png) |
-| **3. Report an Issue** | **4. Issue Tracker** |
+| **3. Issue Tracker** | **4. About Section** |
 | ![Map View](project%20ss/5.png) | ![Profile](project%20ss/6.png) |
-| **5. Map / Location Pin** | **6. User Profile** |
+| **5. User Profile** | **6. Admin Login** |
 
 ### 🏛️ Authority / Admin Views
 
@@ -125,7 +125,7 @@ Citizen                         Authority
 | ![Authority Dashboard](project%20ss/7.png) | ![Issue Details](project%20ss/8.png) |
 | **7. Authority Dashboard** | **8. Issue Details** |
 | ![Status Update](project%20ss/9.png) | ![Admin Login](project%20ss/10.png) |
-| **9. Status Update** | **10. Admin Login** |
+| **9. Assign to Team Member** | **10. Analytics Dashboard** |
 
 ---
 
